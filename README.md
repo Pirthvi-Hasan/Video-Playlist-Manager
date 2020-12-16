@@ -10,8 +10,8 @@ REQUIREMENTS:-
 
 		1. Admin:
 			In this Folder, you need '2 Text Files'.
-			
-      			i) admin_creds.txt:
+	
+      		i) admin_creds.txt:
 				admin
 				adminpass
 
@@ -20,8 +20,8 @@ REQUIREMENTS:-
 
 		2. Users:
 			In this Folder, you need '1 Text File'.
-			
-      			i) user_count.txt:
+
+		i) user_count.txt:
 				0
 
 		3. Videos:
