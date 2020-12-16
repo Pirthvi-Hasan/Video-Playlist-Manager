@@ -21,7 +21,7 @@ REQUIREMENTS:-
 		2. Users:
 			In this Folder, you need '1 Text File'.
 
-		i) user_count.txt:
+			i) user_count.txt:
 				0
 
 		3. Videos:
