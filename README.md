@@ -1,5 +1,5 @@
 # Video-Playlist-Manager
-Platform where users can create account and watch videos available.
+Platform where users can create account and watch videos which are uploaded by the Program Admin. (Simulation of OTT Platforms)
 
 /*---------------------------------- IMPORTANT REQUIREMENTS --------------------------------------------*/
 
